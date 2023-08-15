@@ -999,6 +999,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1533100748 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -4307051475664381905, guid: 02fbd1f441f6845c18cbaa98620b65f0,
+    type: 3}
+  m_PrefabInstance: {fileID: 264942706}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e69bcc9a6b054ee88418c98f87e1d2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1598093875 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3294758251327466535, guid: 1c5dda3c7cd3cf742afcade5419faeab,
@@ -1052,6 +1064,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6229469800011721848, guid: 530695985eb694250906c8f12363b931,
         type: 3}
+    - target: {fileID: -4307051475664381905, guid: 02fbd1f441f6845c18cbaa98620b65f0,
+        type: 3}
+      propertyPath: secondClearCounter
+      value: 
+      objectReference: {fileID: 1533100748}
     - target: {fileID: 2959859955646456542, guid: 02fbd1f441f6845c18cbaa98620b65f0,
         type: 3}
       propertyPath: m_RootOrder
