@@ -19,7 +19,7 @@ public class PlayerSounds : MonoBehaviour
 
         if(footstepTimer < 0f)
         {
-            footstepTimer = footstepTimerMax;
+            footstepTimer = footstepTimerMax; 
 
             if (player.IsWalking())
             {
